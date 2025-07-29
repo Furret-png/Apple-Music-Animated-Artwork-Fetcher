@@ -49,7 +49,7 @@ options:
 ```
 Ex:
 ``` 
-py fetcher.py -T tall -L 2 -A https://music.apple.com/us/album/planet-her-deluxe/1574004234
+python fetcher.py -T tall -L 2 -A https://music.apple.com/us/album/planet-her-deluxe/1574004234
 ```
 
 The video will be saved in the ``Animated artworks`` folder.
