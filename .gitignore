@@ -5,3 +5,8 @@ __pycache__/
 .vscode
 .DS_Store
 token.txt
+
+.venv
+.python-version
+poetry.lock
+pyproject.toml
