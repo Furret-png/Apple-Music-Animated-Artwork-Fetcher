@@ -9,7 +9,7 @@
 ## Usage
 Clone this repo
 ```
-git clone https://github.com/bunnykek/Apple-Music-Animated-Artwork-Fetcher
+git clone https://github.com/Furret-png/Apple-Music-Animated-Artwork-Fetcher
 cd Apple-Music-Animated-Artwork-Fetcher
 ```
 ### Nix Method
@@ -23,8 +23,6 @@ python fetcher.py -h
 ### Typical Method
 
 Make sure you have [python](https://www.python.org/ "python") installed in your system.
-
-Download this repo and navigate into its directory or follow the below commands (install [git](https://git-scm.com/) first):
 
 ```
 pip install -r requirements.txt
