@@ -1,4 +1,4 @@
-![logo](https://github.com/Furret-png/Apple-Music-Animated-Artwork-Fetcher/assets/logo.webp "logo")
+![logo](https://raw.githubusercontent.com/Furret-png/Apple-Music-Animated-Artwork-Fetcher/refs/heads/main/assets/logo.webp "logo")
 # Apple Music Animated Artwork Fetcher
 ## Features
 
@@ -63,4 +63,4 @@ https://music.apple.com/us/album/after-hours-deluxe-video-album/1551901062
 https://music.apple.com/us/album/planet-her-deluxe/1574004234
 https://music.apple.com/us/album/folklore-deluxe-version/1528112358
 ```
-![example-usage](https://github.com/Furret-png/Apple-Music-Animated-Artwork-Fetcher/assets/example-usage.png "example-usage")
+![example-usage](https://raw.githubusercontent.com/Furret-png/Apple-Music-Animated-Artwork-Fetcher/refs/heads/main/assets/example-usage.png "example-usage")
