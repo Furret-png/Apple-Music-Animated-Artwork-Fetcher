@@ -54,6 +54,8 @@ python fetcher.py -T tall -L 2 -A https://music.apple.com/us/album/planet-her-de
 
 Videos will be saved in directory "Animated artworks".
 
+## Example usage
+![example-usage](https://raw.githubusercontent.com/Furret-png/Apple-Music-Animated-Artwork-Fetcher/refs/heads/main/assets/example-usage.png "example-usage")
 
 ## Examples of albums with animated covers
 ```
@@ -63,5 +65,3 @@ https://music.apple.com/us/album/after-hours-deluxe-video-album/1551901062
 https://music.apple.com/us/album/planet-her-deluxe/1574004234
 https://music.apple.com/us/album/folklore-deluxe-version/1528112358
 ```
-## Example usage
-![example-usage](https://raw.githubusercontent.com/Furret-png/Apple-Music-Animated-Artwork-Fetcher/refs/heads/main/assets/example-usage.png "example-usage")
